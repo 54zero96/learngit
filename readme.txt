@@ -1,3 +1,2 @@
 Learning some git is very exciting.
-add another line.
 This is the third line.
